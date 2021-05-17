@@ -17,11 +17,11 @@
 `./mvnw`
 8. Приложение будет доступно по адресу http://localhost:8080
 
-= Jira и Confluence для ведения тестовой документации
+= Тестовой документации
 
-Jira https://qa-testproject.atlassian.net
+Jira - для создания тест-кейсов и багов https://qa-testproject.atlassian.net
 
-Confluence https://qa-testproject.atlassian.net/wiki/home
+Confluence - для создания требований https://qa-testproject.atlassian.net/wiki/home
 
 
 
