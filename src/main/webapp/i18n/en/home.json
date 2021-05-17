@@ -1,17 +1,15 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
-    "subtitle": "This is your homepage",
+    "title": "Welcome to Natlex blog!",
+    "subtitle": "This site is constructed using Java Hipster",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "Links:",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "JHipster official site",
+      "natlex_site": "Natlex site",
+      "natlex_github": "Natlex GitHub"
     },
     "like": "If you like JHipster, don't forget to give us a star on",
     "github": "GitHub"

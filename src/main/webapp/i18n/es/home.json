@@ -5,7 +5,7 @@
     "logged": {
       "message": "Está conectado como \"{{username}}\"."
     },
-    "question": "Si tiene preguntas sobre JHipster:",
+    "question": "Enlaces:",
     "link": {
       "homepage": "Página de inicio de JHipster",
       "stackoverflow": "JHipster en Stack Overflow",
