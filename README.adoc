@@ -20,6 +20,7 @@
 = Jira и Confluence для ведения тестовой документации
 
 Jira https://qa-testproject.atlassian.net
+
 Confluence https://qa-testproject.atlassian.net/wiki/home
 
 
