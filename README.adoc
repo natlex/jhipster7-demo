@@ -1,14 +1,10 @@
 = Описание тестового проекта
 
-Данный проект представляет собой монолитное приложение, состоящее из двух частей: фронтенд и бэкенд.
+Данный проект представляет собой монолитное приложение, состоящее из фронтенда и бэкенда. 
 
-Фронтенд реализован на фреймворке Angular. Бэкенд релизован на фреймворке Spring.
+Фронтенд реализован на фреймворке Angular. Бэкенд реализован на фреймворке Spring.
 
-= Перед установкой
-
-Получить приглашение в Jira и Confluence: https://qa-testproject.atlassian.net/ и https://qa-testproject.atlassian.net/wiki/home
-
-= Установка
+= Установка локально
 
 0. Установить IntelliJ IDEA https://www.jetbrains.com/ru-ru/idea/ (Ultimate, пробная версия 30 дней)
 1. Установить Java 11 https://adoptopenjdk.net/
@@ -21,7 +17,10 @@
 `./mvnw`
 8. Приложение будет доступно по адресу http://localhost:8080
 
+= Jira и Confluence для ведения тестовой документации
 
+Jira https://qa-testproject.atlassian.net
+Confluence https://qa-testproject.atlassian.net/wiki/home
 
 
 
