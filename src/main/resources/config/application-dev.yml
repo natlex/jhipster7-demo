@@ -48,10 +48,22 @@ spring:
     # Remove 'faker' if you do not want the sample data to be loaded automatically
     contexts: dev
   mail:
-    host: localhost
-    port: 25
+    #Your host - example smtp.gmail.com
+    host:
+    #Your username - example test@gmail.com
     username:
+    #Your password - example test
     password:
+    properties:
+      mail:
+        smtp:
+          #Smtp port - example for gmail 587
+          port:
+          #Properties for gmail
+          auth: true
+          starttls:
+            enable: true
+            required: true
   messages:
     cache-duration: PT1S # 1 second, see the ISO 8601 standard
   thymeleaf:
